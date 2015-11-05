@@ -20,7 +20,7 @@
 	<key>AMCanShowWhenRun</key>
 	<true/>
 	<key>AMCategory</key>
-	<string>Images</string>
+	<string>AMCategoryPhotos</string>
 	<key>AMDefaultParameters</key>
 	<dict>
 		<key>power</key>
